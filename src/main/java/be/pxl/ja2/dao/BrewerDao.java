@@ -1,14 +1,11 @@
 package be.pxl.ja2.dao;
 
-import java.util.List;
+import be.pxl.ja2.data.Brewer;
 
-import javax.inject.Inject;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityTransaction;
-import javax.persistence.PersistenceContext;
 import javax.persistence.TypedQuery;
-
-import be.pxl.ja2.data.Brewer;
+import java.util.List;
 
 public class BrewerDao {
 	private EntityManager entityManager;
