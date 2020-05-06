@@ -1,0 +1,7 @@
+be\pxl\ja2\data\Brewer.class
+be\pxl\ja2\rest\HelloRest.class
+be\pxl\ja2\dao\EntityManagerUtil.class
+be\pxl\ja2\dao\BrewerDao.class
+be\pxl\ja2\rest\resource\BrewerResource.class
+be\pxl\ja2\rest\RestApplication.class
+be\pxl\ja2\rest\BrewersRest.class
